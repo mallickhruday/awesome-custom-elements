@@ -220,6 +220,7 @@ A curated list of awesome Custom Elements & Web Components tools, articles and r
 * [Router Manager](https://github.com/erikringsmuth/app-router) by Erik Ringsmuth.
 * [Polymer Elements Catalog](https://elements.polymer-project.org/)
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) by Joselito Júnior
+* [Story View](https://github.com/hicay/videojs-story-view) by hicay.
 
 ## WebComponents.org
 
